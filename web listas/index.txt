@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <title><strong>LA CARTA</strong></title>
+
+    <h3>Menú diario</h3>
+
+    <ul style="list-style-type: circle;">
+        <li>Primer plato</li>
+
+        <ol>
+            <li>Arroz al horno</li>
+            <li>Paella</li>
+            <li>Fideua</li>
+
+            <ol type="I">
+                <li>De Gandia</li>
+                <li>De boletus</li>
+            </ol>
+        </ol>
+        
+    </ul>
+    <ul style="list-style-type: circle;">
+        <li>Segundo plato</li>
+
+        <ol type="a">
+            <li>Lomo a la Valenciana</li>
+            <li>Lenguado</li>
+            <li>Entrecot en su salsa</li>
+        </ol>
+
+    </ul>
+
+    <ul style="list-style-type: circle;">
+        <li>Postre o café</li>
+
+    </ul>
+</body>
+
+</html>
